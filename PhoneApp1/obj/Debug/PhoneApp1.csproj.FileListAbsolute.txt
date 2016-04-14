@@ -1,0 +1,76 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\PhoneApp1.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\resources.pri
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\AppxManifest.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\PhoneApp1.build.appxrecipe
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\AppManifest.xaml
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\PhoneApp1_Debug_AnyCPU.xap
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\App.g.cs
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\MainPage.g.cs
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\PhoneApp1.Resources.AppResources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\PhoneApp1.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\PhoneApp1.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\PhoneApp1.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\priconfig.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\priconfig.xml.intermediate
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\layout.resfiles
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\layout.resfiles.intermediate
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\resources.resfiles
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\resources.resfiles.intermediate
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\pri.resfiles
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\pri.resfiles.intermediate
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\qualifiers.txt
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\qualifiers.txt.intermediate
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\ProjectArchitectures.txt
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\MDILProjectFiles.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\PhoneApp1\obj\Debug\XapCacheFile.xml
+D:\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\Assets\ApplicationIcon.png
+D:\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\PhoneApp1.dll
+D:\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+D:\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\resources.pri
+D:\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\AppxManifest.xml
+D:\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\PhoneApp1.build.appxrecipe
+D:\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\Properties\WMAppManifest.xml
+D:\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\AppManifest.xaml
+D:\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\PhoneApp1_Debug_AnyCPU.xap
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\App.g.cs
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\MainPage.g.cs
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\PhoneApp1.Resources.AppResources.resources
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\PhoneApp1.csproj.GenerateResource.Cache
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\PhoneApp1.dll
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\PhoneApp1.pdb
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\priconfig.xml
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\priconfig.xml.intermediate
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\layout.resfiles
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\layout.resfiles.intermediate
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\resources.resfiles
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\resources.resfiles.intermediate
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\pri.resfiles
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\pri.resfiles.intermediate
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\qualifiers.txt
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\qualifiers.txt.intermediate
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\ProjectArchitectures.txt
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\MDILProjectFiles.xml
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\XapCacheFile.xml
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\Emergency.g.cs
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\Evacuator.g.cs
+D:\CarRemoteUniversalApp\PhoneApp1\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\PhoneApp1.csprojResolveAssemblyReference.cache
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\Interior.g.cs
+D:\CarRemoteUniversalApp\PhoneApp1\obj\Debug\InteriorPanorama.g.cs

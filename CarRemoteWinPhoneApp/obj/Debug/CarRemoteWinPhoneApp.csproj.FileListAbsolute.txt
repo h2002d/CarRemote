@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\CarRemoteWinPhoneApp\obj\Debug\App.g.i.cs
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\CarRemoteWinPhoneApp\obj\Debug\App.g.cs
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\CarRemoteWinPhoneApp\obj\Debug\MainPage.g.i.cs
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\CarRemoteWinPhoneApp\obj\Debug\MainPage.g.cs
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\CarRemoteWinPhoneApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\CarRemoteWinPhoneApp\obj\Debug\App.xaml
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\CarRemoteWinPhoneApp\obj\Debug\MainPage.xaml
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\CarRemoteWinPhoneApp\obj\Debug\App.xbf
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\CarRemoteWinPhoneApp\obj\Debug\MainPage.xbf
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\CarRemoteWinPhoneApp\obj\Debug\XamlSaveStateFile.xml

@@ -1,0 +1,23 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\Client\bin\Debug\Client.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\Client\bin\Debug\Client.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\Client\bin\Debug\Client.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\Client\obj\Debug\Client.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\CarRemoteUniversalApp\Client\obj\Debug\Client.pdb
+D:\CarRemoteUniversalApp\Client\bin\Debug\Client.exe.config
+D:\CarRemoteUniversalApp\Client\bin\Debug\Client.exe
+D:\CarRemoteUniversalApp\Client\bin\Debug\Client.pdb
+D:\CarRemoteUniversalApp\Client\obj\Debug\Client.exe
+D:\CarRemoteUniversalApp\Client\obj\Debug\Client.pdb
+D:\CarRemoteUniversalApp\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\davit.harutyunyan\Desktop\CarRemoteUniversalApp\Client\bin\Debug\Client.exe.config
+C:\Users\davit.harutyunyan\Desktop\CarRemoteUniversalApp\Client\bin\Debug\Client.exe
+C:\Users\davit.harutyunyan\Desktop\CarRemoteUniversalApp\Client\bin\Debug\Client.pdb
+C:\Users\davit.harutyunyan\Desktop\CarRemoteUniversalApp\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\davit.harutyunyan\Desktop\CarRemoteUniversalApp\Client\obj\Debug\Client.exe
+C:\Users\davit.harutyunyan\Desktop\CarRemoteUniversalApp\Client\obj\Debug\Client.pdb
+C:\Users\Toshiba\Documents\CarRemoteUniversalApp\Client\bin\Debug\Client.exe.config
+C:\Users\Toshiba\Documents\CarRemoteUniversalApp\Client\bin\Debug\Client.exe
+C:\Users\Toshiba\Documents\CarRemoteUniversalApp\Client\bin\Debug\Client.pdb
+C:\Users\Toshiba\Documents\CarRemoteUniversalApp\Client\obj\Debug\Client.exe
+C:\Users\Toshiba\Documents\CarRemoteUniversalApp\Client\obj\Debug\Client.pdb
