@@ -21,3 +21,6 @@ C:\Users\Toshiba\Documents\CarRemoteUniversalApp\CarRemoteSocketConsoleApplicati
 C:\Users\Toshiba\Documents\CarRemoteUniversalApp\CarRemoteSocketConsoleApplication\obj\Debug\CarRemoteSocketConsoleApplication.exe
 C:\Users\Toshiba\Documents\CarRemoteUniversalApp\CarRemoteSocketConsoleApplication\obj\Debug\CarRemoteSocketConsoleApplication.pdb
 C:\Users\Toshiba\Documents\CarRemoteUniversalApp\CarRemoteSocketConsoleApplication\obj\Debug\CarRemoteSocketConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Projects\CarRemote\CarRemoteSocketConsoleApplication\bin\Debug\CarRemoteSocketConsoleApplication.exe.config
+C:\Projects\CarRemote\CarRemoteSocketConsoleApplication\obj\Debug\CarRemoteSocketConsoleApplication.exe
+C:\Projects\CarRemote\CarRemoteSocketConsoleApplication\obj\Debug\CarRemoteSocketConsoleApplication.pdb

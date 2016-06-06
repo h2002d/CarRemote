@@ -12,14 +12,14 @@ using System.Windows.Forms;
 
 namespace CaRemoteClientServerWindowsForm
 {
-    public partial class Form1 : Form
+    public partial class MainScreen : Form
     {
         private CarRemoteSocketConsoleApplication.Program server;
         private static byte[] _buffer = new byte[1024];
         private static List<Socket> _clientSockets = new List<Socket>();
         private static Socket _serverSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
 
-        public Form1()
+        public MainScreen()
         {
             InitializeComponent();
             SetupServer();

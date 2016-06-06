@@ -1,6 +1,6 @@
 ﻿namespace CaRemoteClientServerWindowsForm
 {
-    partial class Form1
+    partial class MainScreen
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainScreen));
             this.panelRightDoor = new System.Windows.Forms.Panel();
             this.panelLeftDoor = new System.Windows.Forms.Panel();
             this.startEngineBox = new System.Windows.Forms.PictureBox();
